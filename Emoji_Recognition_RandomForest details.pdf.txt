@@ -1,0 +1,160 @@
+[W 2024-09-22 10:24:21.458 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[W 2024-09-22 10:24:21.579 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-09-22 10:24:21.581 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-22 10:24:21.587 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-22 10:24:21.593 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-22 10:24:21.599 ServerApp] notebook | extension was successfully linked.
+[I 2024-09-22 10:24:22.034 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-22 10:24:22.084 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-22 10:24:22.087 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-22 10:24:22.088 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-22 10:24:22.091 LabApp] JupyterLab extension loaded from C:\Users\abishek\anaconda3\envs\Abishek\Lib\site-packages\jupyterlab
+[I 2024-09-22 10:24:22.092 LabApp] JupyterLab application directory is C:\Users\abishek\anaconda3\envs\Abishek\share\jupyter\lab
+[I 2024-09-22 10:24:22.092 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-22 10:24:22.094 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-22 10:24:22.098 ServerApp] notebook | extension was successfully loaded.
+[I 2024-09-22 10:24:22.099 ServerApp] Serving notebooks from local directory: C:\Users\abishek
+[I 2024-09-22 10:24:22.099 ServerApp] Jupyter Server 2.14.1 is running at:
+[I 2024-09-22 10:24:22.099 ServerApp] http://localhost:8888/tree?token=d16c65db66db1a16fb037e983a54f7bc757f4b0d2b7a235b
+[I 2024-09-22 10:24:22.099 ServerApp]     http://127.0.0.1:8888/tree?token=d16c65db66db1a16fb037e983a54f7bc757f4b0d2b7a235b
+[I 2024-09-22 10:24:22.099 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-09-22 10:24:22.150 ServerApp]
+
+    To access the server, open this file in a browser:
+        file:///C:/Users/abishek/AppData/Roaming/jupyter/runtime/jpserver-11336-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=d16c65db66db1a16fb037e983a54f7bc757f4b0d2b7a235b
+        http://127.0.0.1:8888/tree?token=d16c65db66db1a16fb037e983a54f7bc757f4b0d2b7a235b
+[I 2024-09-22 10:24:22.316 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-22 10:24:38.430 ServerApp] Kernel started: b61e8686-9e4e-431b-ac1d-a779c8c6f2db
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-22 10:24:39.990 ServerApp] Connecting to kernel b61e8686-9e4e-431b-ac1d-a779c8c6f2db.
+[I 2024-09-22 10:25:48.482 ServerApp] Kernel started: 3b990af0-55f1-4f54-aaf2-caa70e3c0cc8
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-22 10:25:50.037 ServerApp] Connecting to kernel 3b990af0-55f1-4f54-aaf2-caa70e3c0cc8.
+[I 2024-09-22 10:26:38.156 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 10:28:38.215 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 10:30:38.265 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 10:32:38.317 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 10:33:50.901 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Image_Recognition.ipynb
+[I 2024-09-22 10:34:38.374 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 10:34:50.823 ServerApp] Kernel restarted: b61e8686-9e4e-431b-ac1d-a779c8c6f2db
+[I 2024-09-22 10:34:50.830 ServerApp] Starting buffering for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+[I 2024-09-22 10:34:50.834 ServerApp] Connecting to kernel b61e8686-9e4e-431b-ac1d-a779c8c6f2db.
+[I 2024-09-22 10:34:50.834 ServerApp] Restoring connection for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-22 10:36:19.623 ServerApp] Kernel restarted: b61e8686-9e4e-431b-ac1d-a779c8c6f2db
+[I 2024-09-22 10:36:19.629 ServerApp] Starting buffering for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+[I 2024-09-22 10:36:19.632 ServerApp] Connecting to kernel b61e8686-9e4e-431b-ac1d-a779c8c6f2db.
+[I 2024-09-22 10:36:19.633 ServerApp] Restoring connection for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-22 10:36:22.366 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 10:38:22.837 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 10:44:24.837 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 10:46:25.852 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 10:50:26.852 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 10:52:27.845 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 10:54:28.835 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 10:56:29.851 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 10:57:37.534 ServerApp] Kernel restarted: b61e8686-9e4e-431b-ac1d-a779c8c6f2db
+[I 2024-09-22 10:57:37.542 ServerApp] Starting buffering for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+[I 2024-09-22 10:57:37.547 ServerApp] Connecting to kernel b61e8686-9e4e-431b-ac1d-a779c8c6f2db.
+[I 2024-09-22 10:57:37.548 ServerApp] Restoring connection for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-22 10:57:56.517 ServerApp] Kernel restarted: b61e8686-9e4e-431b-ac1d-a779c8c6f2db
+[I 2024-09-22 10:57:56.524 ServerApp] Starting buffering for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+[I 2024-09-22 10:57:56.527 ServerApp] Connecting to kernel b61e8686-9e4e-431b-ac1d-a779c8c6f2db.
+[I 2024-09-22 10:57:56.527 ServerApp] Restoring connection for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-22 10:58:29.996 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 11:00:30.144 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 11:02:30.286 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 11:04:30.425 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 11:04:51.276 ServerApp] Kernel restarted: b61e8686-9e4e-431b-ac1d-a779c8c6f2db
+[I 2024-09-22 11:04:51.282 ServerApp] Starting buffering for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+[I 2024-09-22 11:04:51.285 ServerApp] Connecting to kernel b61e8686-9e4e-431b-ac1d-a779c8c6f2db.
+[I 2024-09-22 11:04:51.285 ServerApp] Restoring connection for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-22 11:06:30.840 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 11:08:31.865 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 11:10:32.060 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 11:12:32.408 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 11:50:50.550 ServerApp] Starting buffering for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+[I 2024-09-22 11:50:50.560 ServerApp] Starting buffering for 3b990af0-55f1-4f54-aaf2-caa70e3c0cc8:c198e23f-b07e-4982-97a7-3e8d76b35d47
+[I 2024-09-22 12:04:35.823 ServerApp] Connecting to kernel b61e8686-9e4e-431b-ac1d-a779c8c6f2db.
+[I 2024-09-22 12:04:35.823 ServerApp] Restoring connection for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+[I 2024-09-22 12:04:35.847 ServerApp] Connecting to kernel 3b990af0-55f1-4f54-aaf2-caa70e3c0cc8.
+[I 2024-09-22 12:04:35.847 ServerApp] Restoring connection for 3b990af0-55f1-4f54-aaf2-caa70e3c0cc8:c198e23f-b07e-4982-97a7-3e8d76b35d47
+[I 2024-09-22 12:06:33.521 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Image_Recognition.ipynb
+[I 2024-09-22 12:06:37.597 ServerApp] Kernel restarted: 3b990af0-55f1-4f54-aaf2-caa70e3c0cc8
+[I 2024-09-22 12:06:37.606 ServerApp] Starting buffering for 3b990af0-55f1-4f54-aaf2-caa70e3c0cc8:c198e23f-b07e-4982-97a7-3e8d76b35d47
+[I 2024-09-22 12:06:37.610 ServerApp] Connecting to kernel 3b990af0-55f1-4f54-aaf2-caa70e3c0cc8.
+[I 2024-09-22 12:06:37.610 ServerApp] Restoring connection for 3b990af0-55f1-4f54-aaf2-caa70e3c0cc8:c198e23f-b07e-4982-97a7-3e8d76b35d47
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-22 12:08:33.708 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Image_Recognition.ipynb
+[I 2024-09-22 12:10:33.934 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Image_Recognition.ipynb
+[I 2024-09-22 12:11:00.453 ServerApp] Starting buffering for 3b990af0-55f1-4f54-aaf2-caa70e3c0cc8:c198e23f-b07e-4982-97a7-3e8d76b35d47
+[I 2024-09-22 13:17:39.197 ServerApp] Kernel restarted: b61e8686-9e4e-431b-ac1d-a779c8c6f2db
+[I 2024-09-22 13:17:39.204 ServerApp] Starting buffering for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+[I 2024-09-22 13:17:39.215 ServerApp] Connecting to kernel b61e8686-9e4e-431b-ac1d-a779c8c6f2db.
+[I 2024-09-22 13:17:39.215 ServerApp] Restoring connection for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-22 13:17:42.152 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:19:21.345 ServerApp] Kernel interrupted: b61e8686-9e4e-431b-ac1d-a779c8c6f2db
+[I 2024-09-22 13:19:25.535 ServerApp] Kernel restarted: b61e8686-9e4e-431b-ac1d-a779c8c6f2db
+[I 2024-09-22 13:19:25.545 ServerApp] Starting buffering for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+[I 2024-09-22 13:19:25.551 ServerApp] Connecting to kernel b61e8686-9e4e-431b-ac1d-a779c8c6f2db.
+[I 2024-09-22 13:19:25.551 ServerApp] Restoring connection for b61e8686-9e4e-431b-ac1d-a779c8c6f2db:7d125b95-36bb-4e87-9ab0-a7b9ac38db06
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-22 13:19:42.295 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:21:42.871 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:23:43.019 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:25:43.847 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:27:43.941 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:29:44.849 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:31:44.943 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:32:54.082 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[W 2024-09-22 13:35:02.044 ServerApp] Alternative text is missing on 13 image(s).
+[I 2024-09-22 13:36:54.859 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:38:55.853 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:40:55.945 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:42:56.039 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:44:56.122 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:46:56.205 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:48:56.285 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[I 2024-09-22 13:49:20.497 ServerApp] Saving file at /Documents/Abishek_DATA SCIENCE/Python Progess/Emoji Recognition Using RandomForest/Emoji_Recognition_RandomForest.ipynb
+[W 2024-09-22 13:49:30.909 ServerApp] Alternative text is missing on 13 image(s).
